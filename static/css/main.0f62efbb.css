@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.switch{background-color:#fff;border-radius:2rem;display:inline-block;height:2rem;position:relative;width:4rem}.switch,.switch:after{transition:all .3s linear}.switch:after{background-color:#3dc6c1;border-radius:50%;content:"";height:1.8rem;left:.1rem;position:absolute;top:.1rem;width:1.8rem}input[type=checkbox]:checked+.switch:after{translate:2rem 0}input[type=checkbox]:checked+.switch{background-color:#2e3241}input[type=checkbox]{display:none}
+/*# sourceMappingURL=main.0f62efbb.css.map*/

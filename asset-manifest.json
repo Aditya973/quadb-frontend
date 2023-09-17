@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quadb-frontend/static/css/main.0f62efbb.css",
+    "main.js": "/quadb-frontend/static/js/main.783e314a.js",
+    "index.html": "/quadb-frontend/index.html",
+    "main.0f62efbb.css.map": "/quadb-frontend/static/css/main.0f62efbb.css.map",
+    "main.783e314a.js.map": "/quadb-frontend/static/js/main.783e314a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f62efbb.css",
+    "static/js/main.783e314a.js"
+  ]
+}
